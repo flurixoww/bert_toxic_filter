@@ -23,3 +23,9 @@
 * ### You can find the trained model on hugging face ([click](https://huggingface.co/flurixoww/bert_toxic_filter/tree/main))
 * ### Dataset I used for training ([click](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge)) you can also download train and test .csv from dataset directory 
 
+## Roadmap 
+
+* ### Multilingual model 
+* ### Create large, basic and small model 
+* ### Create API 
+* ### Distribute different types of hate speech(bulling, threat, discrimination)
